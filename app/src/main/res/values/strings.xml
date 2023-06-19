@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hub Tahan</string>
+    <string name="calcular_imc">CALCULAR IMC</string>
+    <string name="um_c_lculo_simples_que_permite_medir_se_algu_m_est_ou_n_o_com_o_peso_ideal">É um cálculo simples que permite medir se alguém está ou não com o peso ideal.</string>
+    <string name="qual_seu_nome">QUAL SEU NOME?</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="altura">ALTURA:</string>
+    <string name="peso">PESO:</string>
+</resources>

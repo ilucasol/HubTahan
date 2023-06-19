@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_malba"
+    tools:context=".Malba">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="239dp"
+        android:layout_height="302dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.988"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.139"
+        app:srcCompat="@drawable/julio" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cabin_bold"
+        android:text="MALBA TAHAN"
+        android:textColor="#F38400"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.142"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.072"
+        tools:text="MALBA TAHAN" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="161dp"
+        android:layout_height="278dp"
+        android:fontFamily="@font/cabin_bold"
+        android:text="Júlio Cesar escreveu ao longo de sua vida cerca de 120 livros (sendo 69 de contos e 51 de matemática recreativa, didática da matemática, história da matemática e ficção infanto-juvenil) Dentre os mais famosos, se destaca &quot;O homem que calculava&quot; obra que inspirou este aplicativo."
+        android:textAlignment="textEnd"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.885"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.722"
+        tools:text="Júlio Cesar escreveu ao longo de sua vida cerca de 120 livros (sendo 69 de contos e 51 de matemática recreativa, didática da matemática, história da matemática e ficção infanto-juvenil) Dentre os mais famosos, se destaca &quot;O homem que calculava&quot; obra que inspirou este aplicativo." />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="182dp"
+        android:layout_height="247dp"
+        android:fontFamily="@font/cabin_bold"
+        android:text="Júlio César de Mello e Souza, mais conhecido como Malba Tahan, foi um professor, educador, pedagogo, conferencista, matemático e escritor do modernismo brasileiro, e, através de seus romances infanto-juvenis, foi um dos maiores divulgadores da matemática do Brasil. "
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.152"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.179"
+        tools:text="Júlio César de Mello e Souza, mais conhecido como Malba Tahan, foi um professor, educador, pedagogo, conferencista, matemático e escritor do modernismo brasileiro, e, através de seus romances infanto-juvenis, foi um dos maiores divulgadores da matemática do Brasil. " />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="191dp"
+        android:layout_height="233dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.044"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.669"
+        app:srcCompat="@drawable/malba" />
+</androidx.constraintlayout.widget.ConstraintLayout>
